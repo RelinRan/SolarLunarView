@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SolarLunarView">
+        <attr name="solarYear" format="integer" />
+        <attr name="solarMonth" format="integer" />
+        <attr name="solarDay" format="integer" />
+        <attr name="dayRadius" format="dimension|float" />
+        <attr name="solarTextSize" format="dimension|float|reference" />
+        <attr name="solarTextColor" format="color|reference" />
+        <attr name="lunarTextSize" format="dimension|float|reference" />
+        <attr name="lunarTextColor" format="color|reference" />
+        <attr name="LunarMarginTop" format="dimension|reference" />
+        <attr name="titleTextSize" format="dimension|reference" />
+        <attr name="titleMarginTop" format="dimension|reference" />
+        <attr name="titleMarginBottom" format="dimension|reference" />
+        <attr name="selectBackgroundColor" format="color|reference" />
+        <attr name="selectSolarTextColor" format="color|reference" />
+        <attr name="selectLunarTextColor" format="color|reference" />
+        <attr name="titleTextColor" format="color|reference" />
+        <attr name="gradientStartColor" format="color|reference" />
+        <attr name="gradientEndColor" format="color|reference" />
+        <attr name="titleBackgroundColor" format="color|reference" />
+    </declare-styleable>
+</resources>
