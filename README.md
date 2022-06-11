@@ -3,11 +3,14 @@
 1.显示中国节假日  
 2.公历  
 3.农历  
-# [Gitee - SolarLunarView](https://gitee.com/relin/solar-lunar-view)
 # 预览
 ![图片](./ic_preview.png)
-# AAR
-[solar_lunar_view.aar](https://gitee.com/relin/solar-lunar-view/blob/master/solar_lunar_view.aar)
+# 资源
+|名字|资源|
+|-|-|
+|AAR|[solar_lunar_view.aar](https://github.com/RelinRan/SolarLunarView/blob/main/solar_lunar_view.aar)|
+|Gitee|[SolarLunarView](https://gitee.com/relin/SolarLunarView)|
+|GitHub |[SolarLunarView](https://github.com/RelinRan/SolarLunarView)|
 # Maven
 1.build.grade | setting.grade
 ```
